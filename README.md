@@ -12,10 +12,10 @@ This repository includes visual representations of GitHub metrics.
     <th>Language Usage</th> 
   </tr> 
   <tr> 
-    <td><img src="https://github-readme-stats.vercel.app/api/?username=fabicarrieri&show_icons=true&theme=radical" alt="Contribution Stats"> 
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabicarrieri&hide=html,css&layout=compact&theme=radical" alt="Top Languages"> 
+    <td><img src="https://github-readme-stats.vercel.app/api/?username=fabicarrieri&show_icons=true&theme=radical" alt="Contribution Stats"></td> 
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabicarrieri&hide=html,css&layout=compact&theme=radical" alt="Top Languages"></td> 
   </tr> 
-</table> 
+</table>
 
 | Other Metrics |
 | ------------ |
