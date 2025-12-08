@@ -6,16 +6,11 @@ I am a passionate developer with a keen interest in new technologies and contrib
 
 This repository includes visual representations of GitHub metrics.
 
-<table>
-  <tr>
-    <th>Contribution Statistics</th>
-    <th>Language Usage</th>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=fabicarrieri&show_icons=true&theme=radical" alt="Contribution Stats"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabicarrieri&hide=html,css&layout=compact&theme=radical" alt="Top Languages"></td>
-  </tr>
-</table>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fabicarrieri&show_icons=true&theme=radical&locale=it" alt="Statistiche di Contribuzione">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabicarrieri&hide=html,css&layout=compact&theme=radical&locale=it" alt="Linguaggi Più Usati">
+</p>
 
 | Other Metrics |
 | ------------ |
