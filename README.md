@@ -19,7 +19,7 @@ This repository includes visual representations of GitHub metrics.
 
 | Other Metrics |
 | ------------ |
-| ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=fabicarrieri&theme=radical) |
+| ![GitHub Streak Stats](https://github-readme-streak-stats.demolab.com/?user=fabicarrieri&theme=radical) |
 
 ## <div align="center">Happy coding! 🚀
 </div>
