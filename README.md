@@ -7,7 +7,7 @@ I am a passionate developer with a keen interest in new technologies and contrib
 This repository includes visual representations of GitHub metrics.
 
 | Statistiche contributi | Lingue più usate |
-| --- | --- |
+| --- | ---- |
 | ![Contribution Stats](https://github-readme-stats.vercel.app/api?username=fabicarrieri&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=fabicarrieri&hide=html,css&layout=compact&theme=radical) |
 
 | Other Metrics |
