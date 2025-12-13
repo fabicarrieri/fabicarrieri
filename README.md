@@ -8,7 +8,7 @@ This repository includes visual representations of GitHub metrics.
 
 | Contribution Statistics | Language Usage ​​|
 |  --- | --- |
-| ![Contribution Stats](https://github-readme-stats.vercel.app/api?username=fabicarrieri&show_icons=true&theme=radical&height=195) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=fabicarrieri&hide=html,css&layout=compact&theme=radical&height=195) |
+| ![Contribution Stats](https://github-readme-stats.vercel.app/api?username=fabicarrieri&show_icons=true&theme=radical&height=190) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=fabicarrieri&hide=html,css&layout=compact&theme=radical&height=195) |
 
 | Other Metrics |
 | ------------ |
